@@ -48,7 +48,7 @@ div.meetbuben {
   height: 300px;
   width: 50%;
   top: 90px;
-  left: 35px;
+  left: 60px;
   margin: 0px;
   padding: 20px;
   text-align: center;
@@ -65,7 +65,7 @@ h1.meetbuben {
 
 h1.meetbuben#meet {
   position: relative;
-  right: 28.5%;
+  right: 26%;
 }
 
 h3.meetbuben {
@@ -78,7 +78,7 @@ h3.meetbuben {
 
 img.meetbuben {
   position: relative;
-  bottom: 267px;
+  bottom: 249px;
   left: 500px;
   float: right;
   height: 340px;
