@@ -117,6 +117,24 @@ div.contact {
   text-align: center;
 }
 
+figure.phnum {
+  position: relative;
+  bottom: 230px;
+  float: left;
+}
+
+a.phnlnk {
+  text-decoration: none;
+}
+
+figcaption.phnum {
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+  position: relative;
+  bottom: 8px;
+}
+
 div.footer {
   position: relative;
   height: 10px;
