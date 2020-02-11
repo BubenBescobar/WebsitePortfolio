@@ -145,6 +145,28 @@ figcaption.phnum {
   bottom: 8px;
 }
 
+figure.email {
+  float: left;
+  position: relative;
+  bottom: 80px;
+  right: 275px;
+}
+
+a.email {
+  color: white;
+  font-size: 17px;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+a.email:hover {
+  color: #7DF9FF;
+}
+
+a.email:active {
+  color: gray;
+}
+
 div.footer {
   position: relative;
   height: 10px;
