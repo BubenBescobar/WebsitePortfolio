@@ -121,14 +121,17 @@ h1.contact {
   color: white;
   font-weight: lighter;
   position: relative;
-  bottom: 200px;
+  font-size: 30px;
+  left: 900px;
+  bottom: 18px;
+  text-decoration: underline;
 }
 
 figure.phnum {
   position: relative;
-  left: 30px;
-  bottom: 200px;
-  float: left;
+  right: 230px;
+  bottom: 170px;
+  float: right;
 }
 
 a.phnlnk {
@@ -153,10 +156,10 @@ figcaption.phnum {
 }
 
 figure.email {
-  float: left;
+  float: right;
   position: relative;
-  bottom: 60px;
-  right: 267px;
+  bottom: 30px;
+  left: 70px;
 }
 
 a.email {
