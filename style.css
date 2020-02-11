@@ -148,15 +148,17 @@ figcaption.phnum {
 figure.email {
   float: left;
   position: relative;
-  bottom: 80px;
-  right: 275px;
+  bottom: 60px;
+  right: 267px;
 }
 
 a.email {
   color: white;
-  font-size: 17px;
+  font-size: 22px;
   text-decoration: none;
   font-weight: lighter;
+  position: relative;
+  top: 8px;
 }
 
 a.email:hover {
