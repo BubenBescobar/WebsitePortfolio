@@ -123,16 +123,9 @@ figure.phnum {
   float: left;
 }
 
-figcaption.phnum {
-  color: white;
-  font-size: 25px;
-  font-weight: lighter;
-  position: relative;
-  bottom: 8px;
-}
-
 a.phnlnk {
   text-decoration: none;
+  color: white;
 }
 
 a.phnlnk:hover {
@@ -141,6 +134,14 @@ a.phnlnk:hover {
 
 a.phnlnk:active {
   color: gray;
+}
+
+figcaption.phnum {
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+  position: relative;
+  bottom: 8px;
 }
 
 div.footer {
