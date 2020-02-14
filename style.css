@@ -126,10 +126,7 @@ h1.contact {
   left: 910px;
   bottom: 12px;
   text-decoration: underline;
-}
-
-p.contact {
-  float: center;
+  width: fit-content;
 }
 
 figure.phnum {
