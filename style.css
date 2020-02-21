@@ -312,30 +312,30 @@ div.photography {
 
 .clubfairvid {
   float: left;
-  margin: 50px;
+  margin-left: 50px;
 }
 
 .fblavid {
   float: left;
-  margin: 50px;
+  margin-left: 50px;
 }
 
 .thursgatvid {
   float: right;
-  margin: 50px;
+  margin-right: 50px;
 }
 
 .iasvid {
   float: right;
-  margin: 50px;
+  margin-right: 50px;
 }
 
 .nspavid {
   float: left;
-  margin: 50px;
+  margin-left: 50px;
 }
 
 .mmvid {
   float: right;
-  margin: 50px;
+  margin-right: 50px;
 }
