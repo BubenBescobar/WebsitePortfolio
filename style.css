@@ -129,7 +129,7 @@ div.contact {
   height: 300px;
   width: 100%;
   margin-bottom: 40px;
-  top: 1000px;
+  top: 2000px;
   padding: 20px;
   text-align: center;
 }
@@ -200,7 +200,7 @@ a.email:active {
 div.footer {
   position: relative;
   height: 10px;
-  top: 980px;
+  top: 1980px;
   text-align: center;
 }
 
