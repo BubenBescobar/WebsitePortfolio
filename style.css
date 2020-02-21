@@ -317,25 +317,30 @@ div.photography {
 
 .fblavid {
   float: left;
-  margin-left: 50px;
+  margin-left: 80px;
+  margin-bottom: 35px;
 }
 
 .thursgatvid {
   float: right;
-  margin-right: 50px;
+  margin-right: 80px;
+  margin-bottom: 35px;
 }
 
 .iasvid {
   float: right;
-  margin-right: 50px;
+  margin-right: 80px;
+  margin-bottom: 35px;
 }
 
 .nspavid {
   float: left;
-  margin-left: 50px;
+  margin-left: 80px;
+  margin-bottom: 35px;
 }
 
 .mmvid {
   float: right;
-  margin-right: 50px;
+  margin-right: 80px;
+  margin-bottom: 35px;
 }
