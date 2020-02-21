@@ -309,3 +309,23 @@ div.photography {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.clubfairvid {
+  float: left;
+  margin: 50px;
+}
+
+.fblavid {
+  float: left;
+  margin: 50px;
+}
+
+.thursgatvid {
+  float: right;
+  margin: 50px;
+}
+
+.iasvid {
+  float: right;
+  margin: 50px;
+}
