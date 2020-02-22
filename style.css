@@ -129,7 +129,7 @@ div.contact {
   height: 300px;
   width: 100%;
   margin-bottom: 40px;
-  top: 2000px;
+  top: 2600px;
   padding: 20px;
   text-align: center;
 }
@@ -140,7 +140,7 @@ h1.contact {
   position: relative;
   font-size: 30px;
   left: 902px;
-  bottom: 12px;
+  bottom: 812px;
   text-decoration: underline;
   width: fit-content;
 }
@@ -148,7 +148,7 @@ h1.contact {
 figure.phnum {
   position: relative;
   right: 210px;
-  bottom: 45px;
+  bottom: 845px;
   float: right;
 }
 
@@ -176,7 +176,7 @@ figcaption.phnum {
 figure.email {
   float: right;
   position: relative;
-  top: 80px;
+  top: -720px;
   left: 90px;
 }
 
@@ -200,7 +200,8 @@ a.email:active {
 div.footer {
   position: relative;
   height: 10px;
-  top: 1980px;
+  left: 6%;
+  top: 2580px;
   text-align: center;
 }
 
