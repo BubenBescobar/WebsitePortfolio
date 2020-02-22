@@ -140,7 +140,7 @@ h1.contact {
   position: relative;
   font-size: 30px;
   left: 899px;
-  bottom: 845px;
+  bottom: 995px;
   text-decoration: underline;
   width: fit-content;
 }
@@ -148,7 +148,7 @@ h1.contact {
 figure.phnum {
   position: relative;
   right: 210px;
-  bottom: 875px;
+  bottom: 1030px;
   float: right;
 }
 
@@ -176,7 +176,7 @@ figcaption.phnum {
 figure.email {
   float: right;
   position: relative;
-  top: -749px;
+  top: -909px;
   left: 90.5px;
 }
 
