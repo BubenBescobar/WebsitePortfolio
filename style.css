@@ -203,6 +203,7 @@ div.footer {
   left: 6%;
   top: 2580px;
   text-align: center;
+  white-space: nowrap;
 }
 
 h4.footer {
